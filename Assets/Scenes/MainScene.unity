@@ -2782,6 +2782,7 @@ MonoBehaviour:
   pressTransform: {fileID: 1879172614}
   pressDepth: 0.05
   nextSceneName: DistanceScene
+  ButtonPress: {fileID: 8300000, guid: dd6933b23cad4d24b8ff30379e958602, type: 3}
 --- !u!54 &1879172616
 Rigidbody:
   m_ObjectHideFlags: 0

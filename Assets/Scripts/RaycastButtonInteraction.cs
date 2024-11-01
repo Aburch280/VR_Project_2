@@ -16,7 +16,6 @@ public class RaycastButtonInteraction : MonoBehaviour
 
     private int pressCount = 0;  
     public string nextSceneName;        
-       
 
     // Start is called before the first frame update
     void Start()
