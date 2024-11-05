@@ -33,7 +33,7 @@ public class ButtonPressTransition : MonoBehaviour
         GetComponent<AudioSource>().PlayOneShot(ButtonPress);
 
         // Check if the press count has reached 3
-        if (pressCount >= 5)
+        if (pressCount >= 3)
         {
             TransitionScene();
         }

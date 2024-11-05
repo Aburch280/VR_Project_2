@@ -17,7 +17,6 @@ public class RaycastButtonInteraction : MonoBehaviour
     private int pressCount = 0;  
     public string nextSceneName;        
 
-    // Start is called before the first frame update
     void Start()
     {
         teleportButtonPress.action.performed += DoRaycast;
@@ -35,8 +34,6 @@ public class RaycastButtonInteraction : MonoBehaviour
 
         if (didHit) {
             pressCount++;
-
-            // button.transform.localPosition -= new Vector3(0, 0.1f, 0);
 
             if (pressCount >= 3)
             {

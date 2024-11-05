@@ -58,4 +58,14 @@ Post:
 2. The hover one as a button hand scan hand hold like in security games or movies
 3. The raycast one didn't seem like it was triggering but there was no feedback. 
 
-Tester #5: 
+Tester #5: Sam Horying
+
+Pre:
+1. Yeah I'm pretty sure
+2. Varying buttons can make an impact on gameplay and unique UI experiences
+3. I like to tell very easily what I did, if possible, make it kind of satisfying
+
+Post:
+1. The first one, I liked physically pressing the button 
+2. All 3 so far within using VR
+3. The second one, with no indicator.
