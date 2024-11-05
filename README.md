@@ -34,3 +34,28 @@ Post:
 2. Definitely, the 2nd one could be used to universally point at an object such as in shooters
 3. The first one for technical issues, but the 3rd could use an indicator.
 
+Tester #3: Ari Guzzi
+
+Pre: 
+1. Yes, only in class
+2. Usually when I interact in environments like in Mario or Portal
+3. Depends what I'm doing If i'm picking something up, haptic would be nice.
+
+Post:
+1. I liked the first one, pressing the button itself was nice
+2. The last one I couldn't really imagine being in a game but the other 2 were cool
+3. THe 2nd one was a tiny bit awkward, the first one was not as intuitive as I would've liked it to be
+
+Tester #4: Nathan Keyt
+
+Pre: 
+1. Played like Superhot and VR Chat and Beat Saber
+2. VR demo experiences, VR chat, VR are physical buttons
+3. I want it to feel like an authentic; sound feedback, the button pushes down. 
+
+Post:
+1. The last one felt the most polished but pressing the button actually was the coolest
+2. The hover one as a button hand scan hand hold like in security games or movies
+3. The raycast one didn't seem like it was triggering but there was no feedback. 
+
+Tester #5: 
